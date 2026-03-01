@@ -7,7 +7,7 @@
 ## 📝 Descrição
 
 ## Este projeto de website institucional desenvolvido para uma clínica odontológica, com foco em apresentação profissional, captação de pacientes e experiência do usuário.
-## O projeto se adapta perfeitamente a **computadores, notebooks, tablets e celulares**, apresentando uma **estrutura limpa e organizada**, com **imagens ilustrativas**, **cabeçalho com links**, **textos descritivos**, **botões de ação**, **Carrossel de imagens** e **Mapa incorporado via Google Maps.
+## O projeto se adapta perfeitamente a **computadores, notebooks, tablets e celulares**, apresentando uma **estrutura limpa e organizada**, com **imagens ilustrativas**, **cabeçalho com links**, **textos descritivos**, **botões de ação**, **Carrossel de imagens** e **Mapa incorporado via Google Maps**.
 
 ---
 
