@@ -22,13 +22,13 @@
 ## 🖼️ Prévia do Projeto
 
 ### 💻 Visualização Desktop
-![Desktop](https://github.com/CarlosRocha-98/jogo-do-numero-secreto/blob/main/Desktop.png)
+![Desktop](https://github.com/CarlosRocha-98/Cirurgiao_Dentista/blob/main/Desktop.png)
 
 ### 🔳 Visualização Tablet
-![Tablet](https://github.com/CarlosRocha-98/jogo-do-numero-secreto/blob/main/Tablet.png)
+![Tablet](https://github.com/CarlosRocha-98/Cirurgiao_Dentista/blob/main/Tablet.png)
 
 ### 📱 Visualização Mobile
-![Mobile](https://github.com/CarlosRocha-98/jogo-do-numero-secreto/blob/main/Mobile.png)
+![Mobile](https://github.com/CarlosRocha-98/Cirurgiao_Dentista/blob/main/Mobile.png)
 
 > 💡 As imagens acima mostram a responsividade e o design do projeto em diferentes dispositivos.
 
